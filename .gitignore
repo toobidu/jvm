@@ -2,4 +2,6 @@
 .idea/**
 target/**
 *.class
-*.md
+**.md
+# shade plugin sinh ra moi lan package
+dependency-reduced-pom.xml
